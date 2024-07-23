@@ -1,16 +1,38 @@
+<p align="center">
+  <a href="readme.md">English</a> |
+  <a href="readme_ja.md">日本語</a> |
+  <a href="readme_de.md">Deutsch</a> |
+  <a href="readme_es.md">Español</a> |
+  <a href="readme_fr.md">Français</a> |
+  <a href="readme_nb_no.md">Bokmål</a> |
+  <a href="readme_nl_nl.md">Nederlands</a> |
+  <a href="readme_pt_br.md">Português</a> |
+  <a href="readme_ru.md">Россия</a> |
+  <a href="readme_sv_se.md">Svenska</a> |
+  <a href="readme_tr.md">Türkiye</a> |
+  <a href="readme_uk_ua.md">Україна</a> |
+  简体中文 |
+  <a href="readme_zh_tw.md">繁體中文</a>
+</p>
+
 ### GetMX是什么
 
 GetMX Domain-Email是一个专门为企业/个人提供批量注册域名邮箱、随机邮箱以及多账号管理服务的域名邮箱服务商。通过选择服务地域，创建各个国家的企业域名邮箱，实现邮件收发功能。
 
 <img src="./img/en-us/home.png" alt="Home" style="width:60%;">
+
 <img src="./img/en-us/dashboard.png" alt="Dashboard" style="width:60%;">
 
 ### 网站链接
 
 - [官网](https://getmx.com)
+
 - [帮助文档](https://docs.getmx.com)
+
 - [网页客户端](https://mail-client.getmx.com)
+
   
+
 ### GetMX的优势
 
 1. 无数个邮箱帐号
@@ -24,6 +46,7 @@ GetMX Domain-Email是一个专门为企业/个人提供批量注册域名邮箱�
 3. 设置邮箱国家
 
 支持将收件区域设置不同的国家，比如美国、新加坡、中国、日本、俄罗斯、澳大利亚、伦敦、巴林、南非等多地域服务，服务器地区一键、自由切换，邮箱可以快速切换到不同的地
+
 区
 
 <img src="./img/en-us/regions.png" alt="Regions" style="width:60%;">
@@ -57,21 +80,31 @@ GetMX支持多种语言，您可以选择自己熟悉的语言快速应用GetMX�
 GetMX和转发类邮箱不同，ForwardMX/ImprovMX只做邮箱中转，通过廉价的宽带将邮件转发到您设置的邮箱。但是这样有的缺点：收多了邮件会拒收邮件，并且会经常丢邮件，这对业务影响非常大，因为发件方的策略，一旦拒收很可能发件方就在也不会发送邮件了，有很多人因此丢失了用他们邮箱注册的Facebook/Tiktok/Twitter/Google/Paypal帐号，有很多用户因此从ForwardMX/ImprovMX迁移到了GetMX，但是产生不能收件的后果是不可逆的
 
 ### 视频教程
+
 - [如何在Godaddy购买域名](https://youtu.be/UL6ELt46HsI)
+
 - [如何在CloudFlare配置DNS解析](https://youtu.be/HkQdgdyGac0)
+
 - [如何在Godaddy配置DNS解析](https://youtu.be/0iUUg0Qa5N8)
+
 - [什么是代收，如何配置代收](https://youtu.be/KSr1BQ39sAA)
 
 ### GetMX不是临时邮箱!!!
+
 我们同时提供了免费的随机邮箱，可以创建多个，注意这个不是临时邮箱/10分钟邮箱，他和Gmail/Outlook/Hotmail/Yahoo是一样的，在后台创建的邮箱可以永久使用
 
 ### 适合人群
+
 - 企业或者
+
 - 网站所有者
+
 - 独立开发者
+
 - 外贸行业人员
 
 ### 联系客服
+
 有任何使用问题都可以联系客服处理，包括邮箱使用问题，配置DNS问题，购买域名问题等
 
 <img src="./img/en-us/whatsapp.jpg" alt="Whatsapp" style="width:60%;">

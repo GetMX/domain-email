@@ -1,3 +1,20 @@
+<p align="center">
+  English |
+  <a href="readme_ja.md">日本語</a> |
+  <a href="readme_de.md">Deutsch</a> |
+  <a href="readme_es.md">Español</a> |
+  <a href="readme_fr.md">Français</a> |
+  <a href="readme_nb_no.md">Bokmål</a> |
+  <a href="readme_nl_nl.md">Nederlands</a> |
+  <a href="readme_pt_br.md">Português</a> |
+  <a href="readme_ru.md">Россия</a> |
+  <a href="readme_sv_se.md">Svenska</a> |
+  <a href="readme_tr.md">Türkiye</a> |
+  <a href="readme_uk_ua.md">Україна</a> |
+  <a href="readme_zh_cn.md">简体中文</a> |
+  <a href="readme_zh_tw.md">繁體中文</a>
+</p>
+
 ### What is GetMX
 
 GetMX Domain-Email is a service provider specializing in bulk domain email registration, random email generation, and multi-account management for both businesses and individuals. By selecting a service region, you can create corporate domain emails for various countries and enable email sending and receiving functionalities.
